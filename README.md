@@ -1,4 +1,4 @@
-Excel Dashboards for Business Insights
+Excel Dashboards for Business Insights-
 Welcome to the repository containing a collection of Excel dashboards designed to provide comprehensive business insights and highlight specific cases using advanced features such as Pivot Tables, Power Query, Pivot Charts, and interactive dashboards.
 
 Contents:
